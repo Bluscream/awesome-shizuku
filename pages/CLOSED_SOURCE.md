@@ -98,8 +98,8 @@ This sublist only contains applications that are closed-source.
 
 ### Quick settings
 
-* [Ultimate Settings](https://play.google.com/store/apps/details?id=com.precisebytes.androidtoggles.free.release) `Ads` - Direct toggling of wifi, bluetooth, mobile internet, flight mode, gps, nfc, wifi/bluetooth/usb tethering hotspot, screen brightness, screen autorotate, LED light, ringer mode, from Widget/App/Notification/Lock screen notification `Proprietary`
-* [Ultimate Settings PRO](https://play.google.com/store/apps/details?id=com.precisebytes.androidtoggles.pro.release) `Paid` 💰 - Direct toggling of wifi, bluetooth, mobile internet, flight mode, gps, nfc, wifi/bluetooth/usb tethering hotspot, screen brightness, screen autorotate, LED light, ringer mode, from Widget/App/Notification/Lock screen notification `Proprietary`
+* [Ultimate Settings](https://play.google.com/store/apps/details?id=com.precisebytes.androidtoggles.free.release) `Ads` - App shortcuts, deep links, TV links (ATV). Direct toggling: wifi, bluetooth, mobile internet, flight mode, gps, nfc, wifi/bluetooth/usb tether hotspot, screen brightness/autorotate, LED, ringer mode on Widget/App/Notification/Lock screen notification `Proprietary`
+* [Ultimate Settings PRO](https://play.google.com/store/apps/details?id=com.precisebytes.androidtoggles.pro.release) `Paid` 💰 - App shortcuts, deep links, TV links (ATV). Direct toggling: wifi, bluetooth, mobile internet, flight mode, gps, nfc, wifi/bluetooth/usb tether hotspot, screen brightness/autorotate, LED, ringer mode on Widget/App/Notification/Lock screen notification `Proprietary`
 
 ### Software management
 
