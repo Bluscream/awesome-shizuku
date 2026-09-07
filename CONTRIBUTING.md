@@ -15,12 +15,12 @@ Please try to preserve the following format:
     - `Ads` - Contains ads
     - `n-day trial` - Payment required after n days. Replace `n` with the number of days.
     - `Root` - Requires Shizuku to run in Root mode
-- Closed source apps must be placed in [CLOSED_SOURCE.md](pages/CLOSED_SOURCE.md).
-- To keep the main list clean, please put projects that do not meet the following requirements into [UNLISTED.md](pages/UNLISTED.md) instead of the main list:
-  - Project must have an English landing page, readme, or documentation
-  - Project must not be deprecated by the developer
-  - Project must provide some kind of download link for the app (APK file, Play Store, F-Droid, ...)
 
+Inclusion requirements:
+- Closed source apps must be placed in [CLOSED_SOURCE.md](pages/CLOSED_SOURCE.md).
+- Project must have an English landing page, readme, or documentation
+- Project must not be deprecated by the developer
+- Project must provide some kind of download link for the app (APK file, Play Store, F-Droid, ...)
 
 Automated changelog:
 * A changelog (sorted by date) is automatically generated and published here: https://github.com/timschneeb/changelog-awesome-shizuku
