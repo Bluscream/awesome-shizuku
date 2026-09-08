@@ -71,8 +71,8 @@ def lint_readme(file_path):
                     errors.append(f"[Line {line_num}] WRONG TAG ORDER: The `License` tag must come before the [(Source code)] link. ({name})")
 
                 # Length check
-                if len(desc_clean) >= 250:
-                    errors.append(f"[Line {line_num}] DESCRIPTION TOO LONG: {len(desc_clean)} chars. Max is 250. ({name})")
+                if len(desc_clean) > 300:
+                    errors.append(f"[Line {line_num}] DESCRIPTION TOO LONG: {len(desc_clean)} chars. Max is 300. ({name})")
 
                 # Duplicate link check
                 if source_url and source_url.strip() == url.strip():
