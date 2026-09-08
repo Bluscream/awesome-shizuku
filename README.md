@@ -88,7 +88,6 @@ Pull requests are welcome. See [Contributing](CONTRIBUTING.md) for hints. Closed
 ### Audio
 
 * [android-realtime-voice-isolation](https://github.com/sk2andy/android-realtime-voice-isolation) - On-device real-time voice isolation using Shizuku, GTCRN, and ONNX Runtime `MIT`
-* [Capsulyric](https://github.com/FrancoGiudans/Capsulyric) - Displays now-playing lyrics on the status bar and lock screen via Android Live Update and Xiaomi Super Island `GPL-3.0`
 * [MicUp](https://github.com/papergray/MicUp) ✨ - Real-time microphone audio processing for Android `MIT`
 * [RootlessJamesDSP](https://play.google.com/store/apps/details?id=me.timschneeberger.rootlessjamesdsp) - An implementation of the system-wide JamesDSP audio processing engine for non-rooted Android devices `GPL-3.0` [(Source code)](https://github.com/timschneeb/RootlessJamesDSP)
 * [Volume++](https://github.com/noel-digital-fan/volume_plus_plus) - Custom volume panel with per-app audio mixing via Shizuku or root `MIT`
@@ -122,6 +121,7 @@ Pull requests are welcome. See [Contributing](CONTRIBUTING.md) for hints. Closed
 * [android-perapp-language-selector](https://github.com/TakeruF/android-perapp-language-selector) - Force per-app language settings on Android 13+ without root, even for apps without built-in language options `Apache-2.0`
 * [AutoDND](https://f-droid.org/packages/moe.dic1911.autodnd/) - A simple tool to toggle DND automatically when using specified apps `AGPL-3.0` [(Source code)](https://github.com/im030/android_AutoDND)
 * [AutoRotate](https://github.com/eiyooooo/AutoRotate) - Manage automatic rotation of different screens on Android phones `GPL-3.0`
+* [Capsulyric](https://github.com/FrancoGiudans/Capsulyric) - Displays now-playing lyrics on the status bar and lock screen via Android Live Update and Xiaomi Super Island `GPL-3.0`
 * [CarrierVanityName](https://github.com/nullbytepl/CarrierVanityName) - Carrier Vanity Name is a very simple app to change the carrier names on unrooted Android devices `GPL-3.0`
 * [CleanBar](https://github.com/sachinmandawi/CleanBar) - 1-tap status bar and system icon hider to hide clock, battery, and icons, no root required `MIT`
 * [ColorBlendr](https://github.com/Mahmud0808/ColorBlendr) - An application to modify Material You colors of your device `GPL-3.0`

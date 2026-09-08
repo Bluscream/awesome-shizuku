@@ -88,7 +88,6 @@ Shizuku 允许普通应用程序在非root 设备上使用 ADB 直接使用权�
 ### Audio
 
 * [android-realtime-voice-isolation](https://github.com/sk2andy/android-realtime-voice-isolation) - On-device real-time voice isolation using Shizuku, GTCRN, and ONNX Runtime `MIT`
-* [Capsulyric](https://github.com/FrancoGiudans/Capsulyric) - Displays now-playing lyrics on the status bar and lock screen via Android Live Update and Xiaomi Super Island `GPL-3.0`
 * [MicUp](https://github.com/papergray/MicUp) ✨ - Real-time microphone audio processing for Android `MIT`
 * [RootlessJamesDSP](https://play.google.com/store/apps/details?id=me.timschneeberger.rootlessjamesdsp) - 针对非 root Android 设备的系统级 JamesDSP 音频处理引擎的实现 `GPL-3.0` [(源代码)](https://github.com/timschneeb/RootlessJamesDSP)
 * [Volume++](https://github.com/noel-digital-fan/volume_plus_plus) - Custom volume panel with per-app audio mixing via Shizuku or root `MIT`
@@ -122,6 +121,7 @@ Shizuku 允许普通应用程序在非root 设备上使用 ADB 直接使用权�
 * [android-perapp-language-selector](https://github.com/TakeruF/android-perapp-language-selector) - Force per-app language settings on Android 13+ without root, even for apps without built-in language options `Apache-2.0`
 * [AutoDND](https://f-droid.org/packages/moe.dic1911.autodnd/) - 使用指定应用程序时自动切换免打扰的简单工具 `AGPL-3.0` [(源代码)](https://github.com/im030/android_AutoDND)
 * [AutoRotate](https://github.com/eiyooooo/AutoRotate) - Manage automatic rotation of different screens on Android phones `GPL-3.0`
+* [Capsulyric](https://github.com/FrancoGiudans/Capsulyric) - Displays now-playing lyrics on the status bar and lock screen via Android Live Update and Xiaomi Super Island `GPL-3.0`
 * [CarrierVanityName](https://github.com/nullbytepl/CarrierVanityName) - Carrier Vanity Name 是一个非常简单的应用程序，用于更改未 root 的 Android 设备上的运营商名称 `GPL-3.0`
 * [CleanBar](https://github.com/sachinmandawi/CleanBar) - 1-tap status bar and system icon hider to hide clock, battery, and icons, no root required `MIT`
 * [ColorBlendr](https://github.com/Mahmud0808/ColorBlendr) - 修改设备 Material You 颜色的应用程序 `GPL-3.0`
