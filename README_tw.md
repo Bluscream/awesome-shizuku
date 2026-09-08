@@ -97,6 +97,7 @@ Shizuku 允許普通應用程式在非root 裝置上使用 ADB 直接使用許�
 
 * [AutoJs6](https://github.com/SuperMonster003/AutoJs6) - JavaScript-based automation tool `MPL-2.0`
 * [Geto](https://github.com/JackEblan/Geto) - Automatically change device settings when a specific app is launched. `GPL-3.0`
+* [IMD](https://github.com/soul-99/SU_IMD) - Fork of Geto that hides developer options, ADB, accessibility services and Shizuku itself for restrictive apps like banking, then restores them `GPL-3.0`
 * [PhoneProfilesPlus](https://github.com/henrichg/PhoneProfilesPlus) - 可針對特定生活環境自動或一鍵配置裝置 `Apache-2.0`
 * [Tasker Settings](https://github.com/joaomgcd/TaskerSettings) - Helper app for Tasker `Propietary`
 * [vFlow](https://github.com/ChaoMixian/vFlow/blob/master/README_EN.md) - Visual automation tool that combines tapping, recognition, branching, and system actions into approachable workflows `GPL-2.0`
@@ -250,6 +251,7 @@ Shizuku 允許普通應用程式在非root 裝置上使用 ADB 直接使用許�
 
 ### Installer & app stores
 
+* [AuroraDroid](https://f-droid.org/packages/com.aurora.adroid/) - FOSS F-Droid client with silent installs via Shizuku/root and automatic updates `GPL-3.0` [(原始碼)](https://gitlab.com/AuroraOSS/auroradroid)
 * [AuroraStore](https://f-droid.org/packages/com.aurora.store/) - Google Play 商店的開源替代品，具有隱私性和現代設計 `GPL-3.0` [(原始碼)](https://gitlab.com/AuroraOSS/AuroraStore)
 * [BHub](https://github.com/B1ays/BHub) - 輕鬆下載、安裝和共享模組 `Proprietary`
 * [Droid-ify](https://f-droid.org/packages/com.looker.droidify/) - Material F-Droid 客戶端 `GPL-3.0` [(原始碼)](https://github.com/Droid-ify/client)
